@@ -1,1 +1,1 @@
-![Uploading 3111lab1.png…]()
+<img src="3111lab1.png">
