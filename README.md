@@ -1,6 +1,6 @@
 # Lab 1 Exercise
 
-![image](/Users/jinro7/Downloads/Lab1.png)
+![image](Lab1.jpg)
 
 This repository contains the exercise for Lab 1. 
 
