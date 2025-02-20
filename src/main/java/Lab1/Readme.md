@@ -1,6 +1,6 @@
 # Lab 1 Exercise
 
-![image](target/Lab1.png)
+![image](Comp3111LEx/Lab1.png)
 
 This repository contains the exercise for Lab 1. 
 
